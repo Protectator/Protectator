@@ -1,9 +1,9 @@
 # Hi, I'm [Kewin Dousse](https://www.kewindousse.ch)
 
-![Kewin Dousse](assets/banner2.svg)
+![Kewin Dousse](assets/banner.svg)
 
 Hi ! My name is Kewin Dousse.
-You might also know me as Protectator.
+You might also know me as **Protectator**.
 I work as a front-end web developer at [Apptitude](https://apptitude.ch/) in Switzerland.
 
 My main interests are high-level programming languages, web design and game design.
