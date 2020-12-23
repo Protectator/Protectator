@@ -1,6 +1,6 @@
 # Hi, I'm [Kewin Dousse](https://www.kewindousse.ch) 👋
 
-![Kewin Dousse](assets/banner.svg)
+![Kewin Dousse](assets/banner3.svg)
 
 Hi ! My name is Kewin Dousse.
 You may also know me as **Protectator**.
