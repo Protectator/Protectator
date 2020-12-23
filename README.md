@@ -12,8 +12,8 @@ I sometimes post my thoughts about subjects related mostly to programming and ga
 
 You can also find me on
 
-[<img src="assets/twitter.svg" height="22"/> @Protectator](https://twitter.com/Protectator)
+[<img src="assets/twitter.svg" height="22"/>&ensp;@Protectator](https://twitter.com/Protectator)
 
-[<img src="assets/stackoverflow.svg" height="22"/> Kewin Dousse](https://stackoverflow.com/users/1841827/kewin-dousse)
+[<img src="assets/stackoverflow.svg" height="22"/>&ensp;Kewin Dousse](https://stackoverflow.com/users/1841827/kewin-dousse)
 
-[<img src="assets/linkedin.svg" height="22"> KewinDousse](https://www.linkedin.com/in/kewindousse/)
+[<img src="assets/linkedin.svg" height="22">&ensp;KewinDousse](https://www.linkedin.com/in/kewindousse/)
