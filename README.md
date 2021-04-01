@@ -3,7 +3,7 @@
 ![Kewin Dousse](assets/banner.svg)
 
 If we met online, you may also know me as **Protectator**.
-I work as a front-end web developer at [Apptitude](https://apptitude.ch/) in Switzerland.
+I work as a front-end web developer at [Qoqa](https://qoqa.ch/) in Switzerland.
 
 My main interests are high-level programming languages, web design and game design.
 
